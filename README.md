@@ -19,10 +19,8 @@ The Nursing Mothers Support App is a mobile application developed to support nur
 
 <p align="center">
 <img src="https://res.cloudinary.com/university-of-lagos-student/image/upload/v1707796334/Simulator_Screenshot_-_iPhone_15_Pro_-_2024-02-13_at_03.49.04_bkckow.png", width="170",height="210"   hspace="10" /> 
-<img src="https://res.cloudinary.com/university-of-lagos-student/image/upload/f_auto,q_auto/cuai0hcurbs7keysnb3u", width="170", height="210"  hspace="10"/>
-<img src="https://res.cloudinary.com/university-of-lagos-student/image/upload/f_auto,q_auto/mcizznb5qd4r1nybmocd", width="170", height="210"  hspace="10"/>
-  <img src="https://res.cloudinary.com/university-of-lagos-student/image/upload/f_auto,q_auto/qmkrgruqn4trdl2ozi0e", width="170", height="210"  hspace="10"/>
-   <img src="https://res.cloudinary.com/university-of-lagos-student/image/upload/f_auto,q_auto/hp1jm3ibvvjwysmdd02d", width="170", height="210"  hspace="10"/>
+<img src="https://res.cloudinary.com/university-of-lagos-student/image/upload/v1707796332/Simulator_Screenshot_-_iPhone_15_Pro_-_2024-02-13_at_03.48.56_nmjrqi.png", width="170", height="210"  hspace="10"/>
+<img src="https://res.cloudinary.com/university-of-lagos-student/image/upload/v1707796333/Simulator_Screenshot_-_iPhone_15_Pro_-_2024-02-13_at_03.49.43_vvwt7y.png", width="170", height="210"  hspace="10"/>
 </p>
 
 
