@@ -13,7 +13,8 @@ The Nursing Mothers Support App is a mobile application developed to support nur
 
 - iOS 16 or later
 - Xcode 15 or later
-- Swift and SwiftUI knowledge
+- Swift
+- SwiftUI
 - Firebase Messaging
 - Firebase Authentication for authorization
 
