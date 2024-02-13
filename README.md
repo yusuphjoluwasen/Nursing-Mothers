@@ -8,12 +8,6 @@ The Nursing Mothers Support App is a mobile application developed to support nur
 - **Community Connection**: Allows mothers to connect with other mothers in their area or with similar experiences for support and camaraderie.
 - **Healthcare Professional Communication**: Enables direct communication with healthcare professionals for advice, consultations, and assistance.
 - **Professional Support**: Provides access to professional support from lactation consultants, nurses, and other experts in breastfeeding.
-- **Swift and SwiftUI**: Built with Swift and SwiftUI for a modern and intuitive user experience.
-- **iOS 16**: Supports the latest version of iOS to leverage new features and enhancements.
-- **Firebase Messaging**: Integrates Firebase Cloud Messaging for real-time notifications and updates.
-- **Firebase Authentication**: Utilizes Firebase Authentication for secure user authentication and management.
-- **Core Data**: Utilizes Core Data for local data storage and management.
-- **Xcode**: Developed using Xcode, the official IDE for iOS app development.
 
 ## Requirements
 
